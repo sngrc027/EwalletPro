@@ -1,6 +1,6 @@
 # Ewallet_app
 
-![alt text](https://raw.githubusercontent.com/sngrc027/EwalletPro/main/Screenshot%202024-01-09%20163139.png)
+
 
 <!-- Title -->
 <h1 align="center">
