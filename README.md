@@ -1,6 +1,6 @@
 # Ewallet_app
 
-![alt text](https://raw.githubusercontent.com/sngrc027/Ewallet_app/main/Screenshot%202024-01-09%20163139.png)
+![alt text](https://raw.githubusercontent.com/sngrc027/EwalletPro/main/Screenshot%202024-01-09%20163139.png)
 
 <!-- Title -->
 <h1 align="center">
@@ -29,7 +29,7 @@
 
 1.Clone project
  ```sh
-git clone https://github.com/sngrc027/Ewallet_app.git
+git clone https://github.com/sngrc027/EwalletPro.git
 ```
 
 2.Install dependencies
